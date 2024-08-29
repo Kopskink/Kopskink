@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kopskink
-- 👀 I’m interested in Developing Fivem Servers
+**@Kopskink**
+- ⚡️ Developing advanced and customizable scripts for FiveM community servers under KPS-Development since 2024
 
 <!---
 Kopskink/Kopskink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
